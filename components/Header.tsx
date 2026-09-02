@@ -4,10 +4,10 @@ export function Header() {
   return (
     <header className="site-header">
       <Image
-        src="/digital-rushal-logo-cropped.png"
+        src="/digital-rushal-logo.png"
         alt="Digital Rushal — AI Solutions. Smarter Marketing. Stronger Growth."
-        width={1700}
-        height={330}
+        width={568}
+        height={100}
         priority
         className="brand-logo"
       />
